@@ -1,7 +1,14 @@
-[This should be a link][4918]
+[Link with colon in id][8888]
 
-<a id='x:28:22mgl-pax:22:20ASDF:2FSYSTEM:SYSTEM:29'></a>
+[Link with hyphen in id][4444]
 
-## The link should lead here
+<a id='x:28'></a>
 
-  [4918]: #x:28:22mgl-pax:22:20ASDF:2FSYSTEM:SYSTEM:29 "(\"mgl-pax\" ASDF/SYSTEM:SYSTEM)"
+## Colon
+
+<a id='x-28'></a>
+
+## Hyphen
+
+  [8888]: #x:28 "link with colon"
+  [4444]: #x-28 "link with hyphen"

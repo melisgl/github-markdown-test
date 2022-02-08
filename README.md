@@ -8,6 +8,8 @@
 
 [Link with % in id][7777]
 
+[Lowercase link with % in id][7778]
+
 <a id='x:28'></a>
 
 ## Colon

@@ -28,9 +28,14 @@
 
 ## %
 
+<a id='x%20y'></a>
+
+## lowercase with %
+
 
   [8888]: #x:28 "link with colon"
   [4444]: #x-28 "link with hyphen"
   [5555]: #X@Y
   [6666]: #X_Y
   [7777]: #X%20Y
+  [7778]: #x%20y

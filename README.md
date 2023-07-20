@@ -10,6 +10,8 @@
 
 [Lowercase link with % in id][7778]
 
+[xX-28][8000]
+
 <a id='x:28'></a>
 
 ## Colon
@@ -30,7 +32,9 @@
 
 ## %
 
-<a id='x%20y'></a>
+<a id='xX-28'></a>
+
+## xX-28
 
 ## lowercase with %
 
@@ -41,3 +45,4 @@
   [6666]: #X_Y
   [7777]: #X%20Y
   [7778]: #x%20y
+  [8000]: #xX-28

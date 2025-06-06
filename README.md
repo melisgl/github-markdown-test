@@ -48,6 +48,12 @@ Double escaped \\$x_0$.
 
 Both escaped \$x_0\$.
 
+Midword a$x_0$
+
+Midword a$x_0$.
+
+Midword a$x_0$b
+
 ## Double-dollar inline mathjax
 
 Hello $$\int_0^\infty x$$ world.

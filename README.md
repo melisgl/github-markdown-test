@@ -58,10 +58,17 @@ Double escaped \\$$x_0$$.
 
 Both escaped \$$x_0\$$.
 
-
 ## Double-dollar block mathjax
 
 $$\int_0^\infty x$$
+
+## Backtick
+
+x `y`
+
+Escaped \`y`
+
+Double escaped \\`y`
 
 
   [8888]: #x:28 "link with colon"

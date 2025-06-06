@@ -38,6 +38,22 @@
 
 ## lowercase with %
 
+## Single-dollar inline mathjax
+
+Hello $\int_0^\infty x$ world.
+
+## Double-dollar inline mathjax
+
+Hello $$\int_0^\infty x$$ world.
+
+## Double-dollar block mathjax
+
+Hello
+
+$$\int_0^\infty x$$
+
+world.
+
 
   [8888]: #x:28 "link with colon"
   [4444]: #x-28 "link with hyphen"

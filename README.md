@@ -42,15 +42,26 @@
 
 Hello $\int_0^\infty x$ world.
 
+Escaped \$x_0$.
+
+Double escaped \\$x_0$.
+
+Both escaped \$x_0\$.
+
 ## Double-dollar inline mathjax
 
 Hello $$\int_0^\infty x$$ world.
 
+Escaped \$$x_0$$.
+
+Double escaped \\$$x_0$$.
+
+Both escaped \$$x_0\$$.
+
+
 ## Double-dollar block mathjax
 
-Hello
-
-$$\int_0^\infty x$$ world.
+$$\int_0^\infty x$$
 
 
   [8888]: #x:28 "link with colon"

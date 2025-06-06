@@ -50,9 +50,7 @@ Hello $$\int_0^\infty x$$ world.
 
 Hello
 
-$$\int_0^\infty x$$
-
-world.
+$$\int_0^\infty x$$ world.
 
 
   [8888]: #x:28 "link with colon"

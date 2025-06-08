@@ -63,6 +63,10 @@ Escaped \$`x_0`$.
 
 Double escaped \\$`x_0`$.
 
+First backtick escaped $\`x_0`$.
+
+Both backticks escaped $\`x_0\`$.
+
 Both escaped \$`x_0\`$.
 
 Midword a$`x_0`$

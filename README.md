@@ -77,6 +77,12 @@ Midword a$`x_0`$.
 
 Midword a$`x_0`$b
 
+Zero-width space ​$x_0$.
+
+Zero-width non-joiner ‌$x_0$.
+
+Zero-width joiner ‍$x_0$.
+
 ## Double-dollar inline mathjax
 
 Hello $$\int_0^\infty x$$ world.

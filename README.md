@@ -69,6 +69,8 @@ Both backticks escaped $\`x_0\`$.
 
 Both escaped \$`x_0\`$.
 
+Both dollars escaped \$`x_0`\$.
+
 Midword a$`x_0`$
 
 Midword a$`x_0`$.

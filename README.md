@@ -54,6 +54,12 @@ Midword a$x_0$.
 
 Midword a$x_0$b
 
+Zero-width space ​$x_0$.
+
+Zero-width non-joiner ‌$x_0$.
+
+Zero-width joiner ‍$x_0$.
+
 ## Dollar-backtrick inline math
 
 
@@ -77,12 +83,6 @@ Midword a$`x_0`$.
 
 Midword a$`x_0`$b
 
-Zero-width space ​$x_0$.
-
-Zero-width non-joiner ‌$x_0$.
-
-Zero-width joiner ‍$x_0$.
-
 ## Double-dollar inline mathjax
 
 Hello $$\int_0^\infty x$$ world.
@@ -105,6 +105,10 @@ Escaped \`y`
 
 Double escaped \\`y`
 
+## link
+
+[title with double quote][l1]
+
 
   [8888]: #x:28 "link with colon"
   [4444]: #x-28 "link with hyphen"
@@ -113,3 +117,4 @@ Double escaped \\`y`
   [7777]: #X%20Y
   [7778]: #x%20y
   [8000]: #xX-28
+  [l1]: #x "hello \"world\"!"

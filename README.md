@@ -60,6 +60,9 @@ Zero-width non-joiner ‌$x_0$.
 
 Zero-width joiner ‍$x_0$.
 
+Zero-width space + backslash ​\$x_0$.
+
+
 ## Dollar-backtrick inline math
 
 
